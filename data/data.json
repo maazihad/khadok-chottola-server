@@ -1,431 +1,429 @@
-{
-   "data": [
-      {
-         "_id": "645296e078834b6214d482d7",
-         "chef_thumb": "https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/329993987_217419040864432_7489011384089811195_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=P3wfgjaFVHIAX9EAPhq&_nc_ht=scontent.fcgp27-1.fna&oh=00_AfCp_Gr3VvF5Ie49FVn05gfEiBnL_ToGwTL8hQpRldt_aA&oe=64572462",
-         "chef_picture": "https://iexaminer.org/wp-content/uploads/2019/03/Uddin-2-web.jpg",
-         "chef_name": "Chef Salah Uddin",
-         "years_of_experience": 15,
-         "number_of_recipes": 50,
-         "likes": 10000,
-         "details": "For the past 10 years, Chef Muhammad Salah Uddin has been at the helm of one of Seattle's most popular and loved Indian and Bangladeshi restaurants, Bengal Tiger, located in the Roosevelt neighborhood of Seattle. He immigrated to the United States from Bangladesh in 1986. “I came here for the same reason everyone else has - to build a better life for myself and my family,” he said. Along the way, he became a community leader, a philanthropist, a successful entrepreneur and one of the most widely recognized Bangladeshi chefs. Uddin said he's always loved the taste of Bangladeshi food, especially his mom's cooking which he grew up eating. Back in Bangladesh, he was an avid soccer player, and every day before he hit the field to play, his mom would whip up traditional Bangladeshi food for him and he would watch her keenly while she cooked. But all the time he was growing up, he'd never even picked up a ladle.In 1986, he immigrated to LA with that focus to build a better life for himself and his family and found himself helping his uncle run his restaurant business. He learned how to cook South Asian food on the job. For three years in the early nineties, he worked at East India Grill on Beverly and LaBrea.Then an opportunity came up in Seattle. Uddin moved to Seattle in the winter of 1994. After growing up in Bangladesh and then living in southern California for several years, he was not very happy about the move. “I just did not want to live in this cold weather.” But he had a friend who wanted him to help out at his restaurant, the India Gate Restaurant in Bellevue, so he decided to give it a try. Here, he gained even more experience as a chef and wore multiple hats as he learned how to provide better customer service and quick service.",
-         "recipe_info": {
-            "recipe1": {
-               "recipe_name": "Beef Bhuna",
-               "recipe_img": "https://cookbook.pfeiffer.net.au/files/beefBhuna.jpg",
-               "ingredients": [
-                  "1 pound beef",
-                  "1 onion, chopped",
-                  "2 tomatoes, chopped",
-                  "2 teaspoons garlic paste",
-                  "2 teaspoons ginger paste",
-                  "1 teaspoon red chili powder",
-                  "1 teaspoon cumin powder",
-                  "1 teaspoon coriander powder",
-                  "Salt to taste",
-                  "3 tablespoons vegetable oil",
-                  "1 cup water"
-               ],
-               "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add beef, salt, and spices, and fry until beef is browned. Add tomatoes and water, and cook until beef is tender and the sauce thickens.",
-               "rating": 4.5
-            },
-            "recipe2": {
-               "recipe_name": "Fish Curry",
-               "recipe_img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/10/fish-curry-recipe.jpg",
-               "ingredients": [
-                  "1 pound fish fillets",
-                  "1 onion, chopped",
-                  "2 tomatoes, chopped",
-                  "2 teaspoons garlic paste",
-                  "2 teaspoons ginger paste",
-                  "1 teaspoon red chili powder",
-                  "1 teaspoon cumin powder",
-                  "1 teaspoon coriander powder",
-                  "Salt to taste",
-                  "3 tablespoons vegetable oil",
-                  "1 cup water"
-               ],
-               "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add fish, salt, and spices, and fry until fish is browned. Add tomatoes and water, and cook until fish is tender and the sauce thickens.",
-               "rating": 4.2
-            },
-            "recipe3": {
-               "recipe_name": "Shorshe Ilish",
-               "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A_photo_of_popular_Bengali_dish_Sorshe_Ilish_served_traditionally.jpg/1200px-A_photo_of_popular_Bengali_dish_Sorshe_Ilish_served_traditionally.jpg",
-               "ingredients": [
-                  "1 pound ilish fish fillets",
-                  "1 onion, chopped",
-                  "2 teaspoons garlic paste",
-                  "2 teaspoons ginger paste",
-                  "2 tablespoons mustard paste",
-                  "2 green chilies, chopped",
-                  "1 teaspoon turmeric powder",
-                  "1 teaspoon red chili powder",
-                  "Salt to taste",
-                  "3 tablespoons vegetable oil",
-                  "1 cup water"
-               ],
-               "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add mustard paste, green chilies, and spices, and fry for 2-3 minutes. Add fish and water, and cook until fish is tender and the sauce thickens.",
-               "rating": 4.8
-            }
+[
+   {
+      "_id": "645296e078834b6214d482d7",
+      "chef_thumb": "https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/329993987_217419040864432_7489011384089811195_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=P3wfgjaFVHIAX9EAPhq&_nc_ht=scontent.fcgp27-1.fna&oh=00_AfCp_Gr3VvF5Ie49FVn05gfEiBnL_ToGwTL8hQpRldt_aA&oe=64572462",
+      "chef_picture": "https://iexaminer.org/wp-content/uploads/2019/03/Uddin-2-web.jpg",
+      "chef_name": "Chef Salah Uddin",
+      "years_of_experience": 15,
+      "number_of_recipes": 50,
+      "likes": 10000,
+      "details": "For the past 10 years, Chef Muhammad Salah Uddin has been at the helm of one of Seattle's most popular and loved Indian and Bangladeshi restaurants, Bengal Tiger, located in the Roosevelt neighborhood of Seattle. He immigrated to the United States from Bangladesh in 1986. “I came here for the same reason everyone else has - to build a better life for myself and my family,” he said. Along the way, he became a community leader, a philanthropist, a successful entrepreneur and one of the most widely recognized Bangladeshi chefs. Uddin said he's always loved the taste of Bangladeshi food, especially his mom's cooking which he grew up eating. Back in Bangladesh, he was an avid soccer player, and every day before he hit the field to play, his mom would whip up traditional Bangladeshi food for him and he would watch her keenly while she cooked. But all the time he was growing up, he'd never even picked up a ladle.In 1986, he immigrated to LA with that focus to build a better life for himself and his family and found himself helping his uncle run his restaurant business. He learned how to cook South Asian food on the job. For three years in the early nineties, he worked at East India Grill on Beverly and LaBrea.Then an opportunity came up in Seattle. Uddin moved to Seattle in the winter of 1994. After growing up in Bangladesh and then living in southern California for several years, he was not very happy about the move. “I just did not want to live in this cold weather.” But he had a friend who wanted him to help out at his restaurant, the India Gate Restaurant in Bellevue, so he decided to give it a try. Here, he gained even more experience as a chef and wore multiple hats as he learned how to provide better customer service and quick service.",
+      "recipe_info": [
+         {
+            "recipe_name": "Beef Bhuna",
+            "recipe_img": "https://cookbook.pfeiffer.net.au/files/beefBhuna.jpg",
+            "ingredients": [
+               "1 pound beef",
+               "1 onion, chopped",
+               "2 tomatoes, chopped",
+               "2 teaspoons garlic paste",
+               "2 teaspoons ginger paste",
+               "1 teaspoon red chili powder",
+               "1 teaspoon cumin powder",
+               "1 teaspoon coriander powder",
+               "Salt to taste",
+               "3 tablespoons vegetable oil",
+               "1 cup water"
+            ],
+            "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add beef, salt, and spices, and fry until beef is browned. Add tomatoes and water, and cook until beef is tender and the sauce thickens.",
+            "rating": 4.5
+         },
+         {
+            "recipe_name": "Fish Curry",
+            "recipe_img": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/10/fish-curry-recipe.jpg",
+            "ingredients": [
+               "1 pound fish fillets",
+               "1 onion, chopped",
+               "2 tomatoes, chopped",
+               "2 teaspoons garlic paste",
+               "2 teaspoons ginger paste",
+               "1 teaspoon red chili powder",
+               "1 teaspoon cumin powder",
+               "1 teaspoon coriander powder",
+               "Salt to taste",
+               "3 tablespoons vegetable oil",
+               "1 cup water"
+            ],
+            "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add fish, salt, and spices, and fry until fish is browned. Add tomatoes and water, and cook until fish is tender and the sauce thickens.",
+            "rating": 4.2
+         },
+         {
+            "recipe_name": "Shorshe Ilish",
+            "recipe_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/A_photo_of_popular_Bengali_dish_Sorshe_Ilish_served_traditionally.jpg/1200px-A_photo_of_popular_Bengali_dish_Sorshe_Ilish_served_traditionally.jpg",
+            "ingredients": [
+               "1 pound ilish fish fillets",
+               "1 onion, chopped",
+               "2 teaspoons garlic paste",
+               "2 teaspoons ginger paste",
+               "2 tablespoons mustard paste",
+               "2 green chilies, chopped",
+               "1 teaspoon turmeric powder",
+               "1 teaspoon red chili powder",
+               "Salt to taste",
+               "3 tablespoons vegetable oil",
+               "1 cup water"
+            ],
+            "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add mustard paste, green chilies, and spices, and fry for 2-3 minutes. Add fish and water, and cook until fish is tender and the sauce thickens.",
+            "rating": 4.8
          }
-      },
-      {
-         "_id": "645296e0a642842e9cdda400",
-         "chef_thumb": "https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/322248554_482600983944994_5812375136237442577_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Ih48-nwrpxIAX9mB3ps&_nc_ht=scontent.fcgp27-1.fna&oh=00_AfD9iT71Qt-xjj2SWu4IwtlkRSG-DTl7eyv7inuA-AmYEw&oe=6456E00A",
-         "chef_picture": "https://miro.medium.com/v2/resize:fit:828/0*8d0vB1EsR6RUtRny",
-         "chef_name": "Chef Nayeem Ashraf",
-         "years_of_experience": 15,
-         "number_of_recipes": 50,
-         "likes": 10000,
-         "details": "Chef Nayeem Ashraf was born and raised in Bangladesh. Bangladeshi food isn't exactly “fine-dining-michelin-starred-quality” — but it's prepared with love, passion, and ingredients picked straight from the ground.“There was never deprivation of having the chance to indulge in real, homemade food. My mom was an amazing cook, and I was so fortunate to have been able to grow up eating her meals. She put so much love and passion into everything she made. It wasn't fancy, but it tasted so good!” In Bangladesh, it is traditional for women to cook at home while men go to work. It's almost frowned upon for men to be in the kitchen… Growing up, Chef Nayeem loved watching raw ingredients transform into stunning, delicious meals. He saw how much his mom loved to be in the kitchen, and he wanted to join in on the fun. Due to the tradition of women being in the kitchen, Chef Nayeem's father wasn't entirely on-board with the idea of him participating in the “kitchen chores”. But, Chef Nayeem's passion was too great, and his mom was happy to pass along her culinary knowledge to her eager son. Chef Nayeem and his mom would bond in the kitchen day in and day out. Whether they were filled with cheer, or stressed from a tough day, they knew they'd be able to ground themselves in the kitchen. Cooking provided a sense of peace and the kitchen quickly became a space to create memories they'd cherish forever.",
-         "recipe_info": {
-            "recipe1": {
-               "recipe_name": "Chingri Macher Malaikari",
-               "recipe_img": "https://rumkisgoldenspoon.com/wp-content/uploads/2022/05/Chingri-macher-malai-curry.jpg",
-               "ingredients": [
-                  "1 pound shrimp",
-                  "1 onion, chopped",
-                  "2 teaspoons garlic paste",
-                  "2 teaspoons ginger paste",
-                  "1 teaspoon red chili powder",
-                  "1 teaspoon cumin powder",
-                  "1 teaspoon coriander powder",
-                  "1 cup coconut milk",
-                  "Salt to taste",
-                  "3 tablespoons vegetable oil",
-                  "1 cup water"
-               ],
-               "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add shrimp, salt, and spices, and fry until shrimp is pink. Add coconut milk and water, and cook until shrimp is tender and the sauce thickens.",
-               "rating": 4.6
-            },
-            "recipe2": {
-               "recipe_name": "Aloo Posto",
-               "recipe_img": "https://maunikagowardhan.co.uk/wp-content/uploads/2016/08/Bengali-Aloo-Posto-700x467.jpg",
-               "ingredients": [
-                  "2 potatoes, diced",
-                  "1 onion, chopped",
-                  "2 teaspoons garlic paste",
-                  "2 teaspoons ginger paste",
-                  "2 tablespoons poppy seed paste",
-                  "1 teaspoon turmeric powder",
-                  "1 teaspoon red chili powder",
-                  "Salt to taste",
-                  "3 tablespoons vegetable oil",
-                  "1 cup water"
-               ],
-               "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add potatoes, salt, and spices, and fry for 5-7 minutes. Add water and poppy seed paste, and cook until potatoes are tender and the sauce thickens.",
-               "rating": 4.4
-            },
-            "recipe3": {
-               "recipe_name": "Kacchi Biryani",
-               "recipe_img": "https://topperone.com/wp-content/uploads/2023/03/Kacchi-Biryani-is-the-most-delicious-Biryani-in-the-world.jpg",
-               "ingredients": [
-                  "1 pound beef, marinated",
-                  "2 cups basmati rice, soaked",
-                  "1 onion, sliced",
-                  "1/2 cup yogurt",
-                  "2 tablespoons ghee",
-                  "2 bay leaves",
-                  "2 cinnamon sticks",
-                  "4 cardamom pods",
-                  "4 cloves",
-                  "2 teaspoons ginger paste",
-                  "2 teaspoons garlic paste",
-                  "1 teaspoon red chili powder",
-                  "1 teaspoon cumin powder",
-                  "1 teaspoon coriander powder",
-                  "Salt to taste",
-                  "4 cups water"
-               ],
-               "cooking_method": "1. Preheat oven to 350°F. Heat ghee in a pot and fry onions until golden brown. Add bay leaves, cinnamon, cardamom, and cloves, and fry for 1 minute. Add beef and spices, and fry for 5-7 minutes. Add yogurt and water, and cook until beef is tender. 2. In a separate pot, boil water and add soaked rice. Cook for 10 minutes, then strain. 3. In a baking dish, layer rice and beef mixture. Cover with foil and bake for 20 minutes. Serve hot.",
-               "rating": 4.9
-            }
+      ]
+   },
+   {
+      "_id": "645296e0a642842e9cdda400",
+      "chef_thumb": "https://scontent.fcgp27-1.fna.fbcdn.net/v/t39.30808-6/322248554_482600983944994_5812375136237442577_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Ih48-nwrpxIAX9mB3ps&_nc_ht=scontent.fcgp27-1.fna&oh=00_AfD9iT71Qt-xjj2SWu4IwtlkRSG-DTl7eyv7inuA-AmYEw&oe=6456E00A",
+      "chef_picture": "https://miro.medium.com/v2/resize:fit:828/0*8d0vB1EsR6RUtRny",
+      "chef_name": "Chef Nayeem Ashraf",
+      "years_of_experience": 15,
+      "number_of_recipes": 50,
+      "likes": 10000,
+      "details": "Chef Nayeem Ashraf was born and raised in Bangladesh. Bangladeshi food isn't exactly “fine-dining-michelin-starred-quality” — but it's prepared with love, passion, and ingredients picked straight from the ground.“There was never deprivation of having the chance to indulge in real, homemade food. My mom was an amazing cook, and I was so fortunate to have been able to grow up eating her meals. She put so much love and passion into everything she made. It wasn't fancy, but it tasted so good!” In Bangladesh, it is traditional for women to cook at home while men go to work. It's almost frowned upon for men to be in the kitchen… Growing up, Chef Nayeem loved watching raw ingredients transform into stunning, delicious meals. He saw how much his mom loved to be in the kitchen, and he wanted to join in on the fun. Due to the tradition of women being in the kitchen, Chef Nayeem's father wasn't entirely on-board with the idea of him participating in the “kitchen chores”. But, Chef Nayeem's passion was too great, and his mom was happy to pass along her culinary knowledge to her eager son. Chef Nayeem and his mom would bond in the kitchen day in and day out. Whether they were filled with cheer, or stressed from a tough day, they knew they'd be able to ground themselves in the kitchen. Cooking provided a sense of peace and the kitchen quickly became a space to create memories they'd cherish forever.",
+      "recipe_info": [
+         {
+            "recipe_name": "Chingri Macher Malaikari",
+            "recipe_img": "https://rumkisgoldenspoon.com/wp-content/uploads/2022/05/Chingri-macher-malai-curry.jpg",
+            "ingredients": [
+               "1 pound shrimp",
+               "1 onion, chopped",
+               "2 teaspoons garlic paste",
+               "2 teaspoons ginger paste",
+               "1 teaspoon red chili powder",
+               "1 teaspoon cumin powder",
+               "1 teaspoon coriander powder",
+               "1 cup coconut milk",
+               "Salt to taste",
+               "3 tablespoons vegetable oil",
+               "1 cup water"
+            ],
+            "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add shrimp, salt, and spices, and fry until shrimp is pink. Add coconut milk and water, and cook until shrimp is tender and the sauce thickens.",
+            "rating": 4.6
+         },
+         {
+            "recipe_name": "Aloo Posto",
+            "recipe_img": "https://maunikagowardhan.co.uk/wp-content/uploads/2016/08/Bengali-Aloo-Posto-700x467.jpg",
+            "ingredients": [
+               "2 potatoes, diced",
+               "1 onion, chopped",
+               "2 teaspoons garlic paste",
+               "2 teaspoons ginger paste",
+               "2 tablespoons poppy seed paste",
+               "1 teaspoon turmeric powder",
+               "1 teaspoon red chili powder",
+               "Salt to taste",
+               "3 tablespoons vegetable oil",
+               "1 cup water"
+            ],
+            "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add potatoes, salt, and spices, and fry for 5-7 minutes. Add water and poppy seed paste, and cook until potatoes are tender and the sauce thickens.",
+            "rating": 4.4
+         },
+         {
+            "recipe_name": "Kacchi Biryani",
+            "recipe_img": "https://topperone.com/wp-content/uploads/2023/03/Kacchi-Biryani-is-the-most-delicious-Biryani-in-the-world.jpg",
+            "ingredients": [
+               "1 pound beef, marinated",
+               "2 cups basmati rice, soaked",
+               "1 onion, sliced",
+               "1/2 cup yogurt",
+               "2 tablespoons ghee",
+               "2 bay leaves",
+               "2 cinnamon sticks",
+               "4 cardamom pods",
+               "4 cloves",
+               "2 teaspoons ginger paste",
+               "2 teaspoons garlic paste",
+               "1 teaspoon red chili powder",
+               "1 teaspoon cumin powder",
+               "1 teaspoon coriander powder",
+               "Salt to taste",
+               "4 cups water"
+            ],
+            "cooking_method": "1. Preheat oven to 350°F. Heat ghee in a pot and fry onions until golden brown. Add bay leaves, cinnamon, cardamom, and cloves, and fry for 1 minute. Add beef and spices, and fry for 5-7 minutes. Add yogurt and water, and cook until beef is tender. 2. In a separate pot, boil water and add soaked rice. Cook for 10 minutes, then strain. 3. In a baking dish, layer rice and beef mixture. Cover with foil and bake for 20 minutes. Serve hot.",
+            "rating": 4.9
          }
-      },
-      {
-         "_id": "645296e032bbadab174ed1e9",
-         "chef_thumb": "https://pbs.twimg.com/profile_images/1259476346301853697/TcPAPLJD_400x400.jpg",
-         "chef_picture": "https://pbs.twimg.com/media/EXwjFTjU4AA-KuX.jpg",
-         "chef_name": "Chef Tony Khan",
-         "years_of_experience": 40,
-         "number_of_recipes": 50,
-         "likes": 10000,
-         "details": "Executive Chef Tony Khan describes Italian food as being “like a mother coming home to you.”  The Bangladeshi-born chef spent 32 years developing his culinary crafts abroad before returning to Bangladesh, where he now heads up the kitchen at one Dhaka's finest restaurants - Prego at the Westin. Anyone familiar with the Westin brand will enter with high expectations, but Tony is confident he can exceed them.  His team is comprised of highly trained and dedicated staff, including several who have worked in Italy, and a general manager whom Tony refers to as his “guru.”  Prego uses only the finest imported ingredients from Australia and Italy and blends in local products, such as chili, whenever possible.  Vegetables and fruits are flown in from Bangkok and Dubai.  Prego's location on the 23rd floor of the ultra-plush five star hotel makes it one of the capital's classiest dining spots - and it offers one of the most beautiful views of the capital.  And for those who may have assumed that Prego's prices are out of reach, consider this - a gourmet Italian lunch costs Tk 600, which is less than half of what competitors are charging. Tony's enthusiasm for all things Italian is contagious.  With a great big grin and a strong hint of an Italian accent, Tony described the best learning experience of his career.  While living in Melbourne, which he described as “the food capital of Australia,” he learnt to make lasagna and different types of pasta at “Mama's Kitchen” on Melbourne's famous Lygon Street.  He said, “I learnt “the A - Z of food preparation from Mama herself.”  As well as being familiar with all styles of Italian cooking, whether it be the spicy Sicilian flavours, the rich aromas of northern Italian cuisine or the gentle blend of south eastern fare, Tony's full repertoire includes French, Mediterranean, Modern Australian, Middle Eastern, Caribbean, African, Pacific Rim and Pan Asian cuisine.  After being trained in Singapore, Tony later worked for King Faisal of Saudi Arabia as well as some of the world's finest hotels, before coming to Prego to make his mark.  Like any successful chef, Tony takes food very, very seriously - his mantra is “Food is the first medicine for the body.” ",
-         "recipe_info": {
-            "recipe1": {
-               "recipe_name": "Chingri Malaikari",
-               "recipe_img": "https://i.ytimg.com/vi/TCkE1ZNRC5M/maxresdefault.jpg",
-               "ingredients": [
-                  "1 pound shrimp, peeled and deveined",
-                  "1 onion, chopped",
-                  "2 teaspoons garlic paste",
-                  "2 teaspoons ginger paste",
-                  "1 teaspoon turmeric powder",
-                  "1 teaspoon red chili powder",
-                  "1 teaspoon cumin powder",
-                  "1 teaspoon coriander powder",
-                  "Salt to taste",
-                  "2 tablespoons vegetable oil",
-                  "1 cup coconut milk",
-                  "1/2 cup water"
-               ],
-               "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add shrimp, salt, and spices, and fry until shrimp is pink. Add coconut milk and water, and cook until shrimp is tender and the sauce thickens.",
-               "rating": 4.6
-            },
-            "recipe2": {
-               "recipe_name": "Aloo Posto",
-               "recipe_img": "https://1.bp.blogspot.com/-N8-sLqVJ-AA/X_NH01Mmo-I/AAAAAAAAN68/WZW3LRj77HQid_yrVowirSP_X-agZwthQCLcBGAsYHQ/s16000/Jhinge-Aloo%2BPosto.JPG",
-               "ingredients": [
-                  "2 potatoes, diced",
-                  "1 onion, chopped",
-                  "2 teaspoons garlic paste",
-                  "2 teaspoons ginger paste",
-                  "2 tablespoons poppy seed paste",
-                  "1 teaspoon turmeric powder",
-                  "1 teaspoon red chili powder",
-                  "Salt to taste",
-                  "3 tablespoons vegetable oil",
-                  "1 cup water"
-               ],
-               "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add potatoes, salt, and spices, and fry for 5-7 minutes. Add water and poppy seed paste, and cook until potatoes are tender and the sauce thickens.",
-               "rating": 4.4
-            },
-            "recipe3": {
-               "recipe_name": "Dhakaai Morog Pulao",
-               "recipe_img": "https://kitchenofdebjani.com/wp-content/uploads/2019/12/Morog-Pulao-Recipe-Debjanir-Rannaghar.jpg",
-               "ingredients": [
-                  "1 pound chicken, cut into pieces",
-                  "2 cups basmati rice, soaked",
-                  "1 onion, sliced",
-                  "1/2 cup yogurt",
-                  "2 tablespoons ghee",
-                  "2 bay leaves",
-                  "2 cinnamon sticks",
-                  "4 cardamom pods",
-                  "4 cloves",
-                  "2 teaspoons ginger paste",
-                  "2 teaspoons garlic paste",
-                  "1 teaspoon red chili powder",
-                  "1 teaspoon cumin powder",
-                  "1 teaspoon coriander powder",
-                  "Salt to taste",
-                  "4 cups water"
-               ],
-               "cooking_method": "1. Preheat oven to 350°F. Heat ghee in a pot and fry onions until golden brown. Add bay leaves, cinnamon, cardamom, and cloves, and fry for 1 minute. Add chicken and spices, and fry for 5-7 minutes. Add yogurt and water, and cook until chicken is tender. 2. In a separate pot, boil water and add soaked rice. Cook for 10 minutes, then strain. 3. In a baking dish, layer rice and chicken mixture. Cover with foil and bake for 20 minutes. Serve hot.",
-               "rating": 4.8
-            }
+      ]
+   },
+   {
+      "_id": "645296e032bbadab174ed1e9",
+      "chef_thumb": "https://pbs.twimg.com/profile_images/1259476346301853697/TcPAPLJD_400x400.jpg",
+      "chef_picture": "https://pbs.twimg.com/media/EXwjFTjU4AA-KuX.jpg",
+      "chef_name": "Chef Tony Khan",
+      "years_of_experience": 40,
+      "number_of_recipes": 50,
+      "likes": 10000,
+      "details": "Executive Chef Tony Khan describes Italian food as being “like a mother coming home to you.”  The Bangladeshi-born chef spent 32 years developing his culinary crafts abroad before returning to Bangladesh, where he now heads up the kitchen at one Dhaka's finest restaurants - Prego at the Westin. Anyone familiar with the Westin brand will enter with high expectations, but Tony is confident he can exceed them.  His team is comprised of highly trained and dedicated staff, including several who have worked in Italy, and a general manager whom Tony refers to as his “guru.”  Prego uses only the finest imported ingredients from Australia and Italy and blends in local products, such as chili, whenever possible.  Vegetables and fruits are flown in from Bangkok and Dubai.  Prego's location on the 23rd floor of the ultra-plush five star hotel makes it one of the capital's classiest dining spots - and it offers one of the most beautiful views of the capital.  And for those who may have assumed that Prego's prices are out of reach, consider this - a gourmet Italian lunch costs Tk 600, which is less than half of what competitors are charging. Tony's enthusiasm for all things Italian is contagious.  With a great big grin and a strong hint of an Italian accent, Tony described the best learning experience of his career.  While living in Melbourne, which he described as “the food capital of Australia,” he learnt to make lasagna and different types of pasta at “Mama's Kitchen” on Melbourne's famous Lygon Street.  He said, “I learnt “the A - Z of food preparation from Mama herself.”  As well as being familiar with all styles of Italian cooking, whether it be the spicy Sicilian flavours, the rich aromas of northern Italian cuisine or the gentle blend of south eastern fare, Tony's full repertoire includes French, Mediterranean, Modern Australian, Middle Eastern, Caribbean, African, Pacific Rim and Pan Asian cuisine.  After being trained in Singapore, Tony later worked for King Faisal of Saudi Arabia as well as some of the world's finest hotels, before coming to Prego to make his mark.  Like any successful chef, Tony takes food very, very seriously - his mantra is “Food is the first medicine for the body.” ",
+      "recipe_info": [
+         {
+            "recipe_name": "Chingri Malaikari",
+            "recipe_img": "https://i.ytimg.com/vi/TCkE1ZNRC5M/maxresdefault.jpg",
+            "ingredients": [
+               "1 pound shrimp, peeled and deveined",
+               "1 onion, chopped",
+               "2 teaspoons garlic paste",
+               "2 teaspoons ginger paste",
+               "1 teaspoon turmeric powder",
+               "1 teaspoon red chili powder",
+               "1 teaspoon cumin powder",
+               "1 teaspoon coriander powder",
+               "Salt to taste",
+               "2 tablespoons vegetable oil",
+               "1 cup coconut milk",
+               "1/2 cup water"
+            ],
+            "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add shrimp, salt, and spices, and fry until shrimp is pink. Add coconut milk and water, and cook until shrimp is tender and the sauce thickens.",
+            "rating": 4.6
+         },
+         {
+            "recipe_name": "Aloo Posto",
+            "recipe_img": "https://1.bp.blogspot.com/-N8-sLqVJ-AA/X_NH01Mmo-I/AAAAAAAAN68/WZW3LRj77HQid_yrVowirSP_X-agZwthQCLcBGAsYHQ/s16000/Jhinge-Aloo%2BPosto.JPG",
+            "ingredients": [
+               "2 potatoes, diced",
+               "1 onion, chopped",
+               "2 teaspoons garlic paste",
+               "2 teaspoons ginger paste",
+               "2 tablespoons poppy seed paste",
+               "1 teaspoon turmeric powder",
+               "1 teaspoon red chili powder",
+               "Salt to taste",
+               "3 tablespoons vegetable oil",
+               "1 cup water"
+            ],
+            "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add potatoes, salt, and spices, and fry for 5-7 minutes. Add water and poppy seed paste, and cook until potatoes are tender and the sauce thickens.",
+            "rating": 4.4
+         },
+         {
+            "recipe_name": "Dhakaai Morog Pulao",
+            "recipe_img": "https://kitchenofdebjani.com/wp-content/uploads/2019/12/Morog-Pulao-Recipe-Debjanir-Rannaghar.jpg",
+            "ingredients": [
+               "1 pound chicken, cut into pieces",
+               "2 cups basmati rice, soaked",
+               "1 onion, sliced",
+               "1/2 cup yogurt",
+               "2 tablespoons ghee",
+               "2 bay leaves",
+               "2 cinnamon sticks",
+               "4 cardamom pods",
+               "4 cloves",
+               "2 teaspoons ginger paste",
+               "2 teaspoons garlic paste",
+               "1 teaspoon red chili powder",
+               "1 teaspoon cumin powder",
+               "1 teaspoon coriander powder",
+               "Salt to taste",
+               "4 cups water"
+            ],
+            "cooking_method": "1. Preheat oven to 350°F. Heat ghee in a pot and fry onions until golden brown. Add bay leaves, cinnamon, cardamom, and cloves, and fry for 1 minute. Add chicken and spices, and fry for 5-7 minutes. Add yogurt and water, and cook until chicken is tender. 2. In a separate pot, boil water and add soaked rice. Cook for 10 minutes, then strain. 3. In a baking dish, layer rice and chicken mixture. Cover with foil and bake for 20 minutes. Serve hot.",
+            "rating": 4.8
          }
-      },
-      {
-         "_id": "645296e0708aa9fae036b6a5",
-         "chef_thumb": "https://icetoday.net/wp-content/uploads/2015/04/3-013.jpg",
-         "chef_picture": "https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/feature/images/nahid_osman_0.jpg?itok=k6A148Il&timestamp=1424796707",
-         "chef_name": "Chef Nahid Osman",
-         "years_of_experience": 15,
-         "number_of_recipes": 50,
-         "likes": 10000,
-         "details": "Presently, she is hosting a travel and Cooking Show “Radhuni Ranna Ghore Bahire” on Massranga TV, Bangladesh & very recently she approached as an honorable Judge at “Shera Radhuni-2012” on Massranga TV, Bangladesh. Also she has hosted two cookery shows Khunti-Karai on Tara TV, India & R-Ranna on RTV, Bangladesh. As a Bangladeshi celebrity chef was Invite in many food festival in India, twice at Taj Bangal Hotel in Kolkata, Hilton Hotel in Bombay, and sponsored Tara TV and also in Santiniketan.  She is a very popular celebrity chef in Bangladesh. Combine travel with food and this is what Nahid Osman, a celebrity chef on Maasranga TV, has introduced to Bangladesh, through “Radhunir Ranna Ghor -- Ghore Bahire”. Her journey with hosting cookery shows started with Tara (a Kolkata-based TV channel) then she moved to Rtv, and finally to Maasranga, where she hosts her own show, while travelling all around Bangladesh.“Bangladesh has so much to offer: natural beauty, resources, our agriculture, spices, heritage and much more. It is almost a mystical experience for foreigners to sample our cuisine and rare herbs,” Nahid shared with The Daily Star.“In fact, many people in our country don't know that you can use tea leaves in cooking! Moreover, people are unaware of the nutrient value of small herbs and plants that are found in the hill tracts. No one highlights or even talks about the wonders and the beauty of Bangladesh. The only reason I took the initiative to do a solo travelling culinary show is because I want the world to know about our country's natural beauty and food,” added Nahid. “When I realised that my show for Tara was a hit, I couldn't stop myself from returning to my country and sharing what I know or have learnt over the years. Thankfully, Square and Maasranga stepped in to give me that opportunity,” she added.",
-         "recipe_info": {
-            "recipe1": {
-               "recipe_name": "Beef Bhuna",
-               "recipe_img": "https://www.curry-pot.com/wp-content/uploads/2016/12/beef-bhuna-1024x683.jpg",
-               "ingredients": [
-                  "1 pound beef, cut into pieces",
-                  "1 onion, sliced",
-                  "2 teaspoons garlic paste",
-                  "2 teaspoons ginger paste",
-                  "1 teaspoon turmeric powder",
-                  "1 teaspoon red chili powder",
-                  "1 teaspoon cumin powder",
-                  "1 teaspoon coriander powder",
-                  "Salt to taste",
-                  "3 tablespoons vegetable oil",
-                  "1 cup, water"
-               ],
-               "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add beef, salt, and spices, and fry for 5-7 minutes. Add water, cover, and cook until beef is tender and the sauce thickens.",
-               "rating": 4.5
-            },
-            "recipe2": {
-               "recipe_name": "Bhorta Trio",
-               "recipe_img": "https://images.squarespace-cdn.com/content/v1/5e558c8165fc4c78f502938d/1630703610596-HDJYQ2HVP3CCEI1607OW/Bangladeshi+New+Year+Bhorta+_+Ilish+-+photo+credit+Dina+Begum+%282%29.jpg",
-               "ingredients": [
-                  "1 bunch spinach, chopped",
-                  "1 eggplant, chopped",
-                  "2 tomatoes, chopped",
-                  "2 green chilies, chopped",
-                  "1 onion, chopped",
-                  "2 teaspoons garlic paste",
-                  "2 teaspoons ginger paste",
-                  "1 teaspoon turmeric powder",
-                  "1 teaspoon red chili powder",
-                  "Salt to taste",
-                  "2 tablespoons vegetable oil"
-               ],
-               "cooking_method": "1. Boil spinach, eggplant, and tomatoes separately, and drain. 2. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add the boiled vegetables, salt, and spices, and mash everything together. Fry for 5-7 minutes. Serve hot.",
-               "rating": 4.2
-            },
-            "recipe3": {
-               "recipe_name": "Shorshe Ilish",
-               "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawKEoskt0tlOItk1pLB4tosMhvD5L3wwIhg0ngqwEd25Qcp-_AOTbb7tXIzOJqOGTjlY&usqp=CAU",
-               "ingredients": [
-                  "4 pieces ilish (hilsa) fish",
-                  "2 tablespoons mustard oil",
-                  "2 tablespoons mustard paste",
-                  "2 teaspoons turmeric powder",
-                  "1 teaspoon red chili powder",
-                  "2 green chilies, slit",
-                  "1 teaspoon nigella seeds",
-                  "Salt to taste",
-                  "1/2 cup water"
-               ],
-               "cooking_method": "1. Marinate the fish with salt and turmeric powder for 15 minutes. 2. Heat mustard oil in a pan and fry the fish until golden brown. Remove the fish from the pan. 3. In the same pan, add nigella seeds, green chilies, and mustard paste. Fry for 2-3 minutes. Add turmeric powder, red chili powder, salt, and water. Mix well. 4. Add the fried ish to the pan and cover. Cook for 10-12 minutes or until the fish is cooked through. Serve hot with rice.",
-               "rating": 4.8
-            }
+      ]
+   },
+   {
+      "_id": "645296e0708aa9fae036b6a5",
+      "chef_thumb": "https://icetoday.net/wp-content/uploads/2015/04/3-013.jpg",
+      "chef_picture": "https://tds-images.thedailystar.net/sites/default/files/styles/big_202/public/feature/images/nahid_osman_0.jpg?itok=k6A148Il&timestamp=1424796707",
+      "chef_name": "Chef Nahid Osman",
+      "years_of_experience": 15,
+      "number_of_recipes": 50,
+      "likes": 10000,
+      "details": "Presently, she is hosting a travel and Cooking Show “Radhuni Ranna Ghore Bahire” on Massranga TV, Bangladesh & very recently she approached as an honorable Judge at “Shera Radhuni-2012” on Massranga TV, Bangladesh. Also she has hosted two cookery shows Khunti-Karai on Tara TV, India & R-Ranna on RTV, Bangladesh. As a Bangladeshi celebrity chef was Invite in many food festival in India, twice at Taj Bangal Hotel in Kolkata, Hilton Hotel in Bombay, and sponsored Tara TV and also in Santiniketan.  She is a very popular celebrity chef in Bangladesh. Combine travel with food and this is what Nahid Osman, a celebrity chef on Maasranga TV, has introduced to Bangladesh, through “Radhunir Ranna Ghor -- Ghore Bahire”. Her journey with hosting cookery shows started with Tara (a Kolkata-based TV channel) then she moved to Rtv, and finally to Maasranga, where she hosts her own show, while travelling all around Bangladesh.“Bangladesh has so much to offer: natural beauty, resources, our agriculture, spices, heritage and much more. It is almost a mystical experience for foreigners to sample our cuisine and rare herbs,” Nahid shared with The Daily Star.“In fact, many people in our country don't know that you can use tea leaves in cooking! Moreover, people are unaware of the nutrient value of small herbs and plants that are found in the hill tracts. No one highlights or even talks about the wonders and the beauty of Bangladesh. The only reason I took the initiative to do a solo travelling culinary show is because I want the world to know about our country's natural beauty and food,” added Nahid. “When I realised that my show for Tara was a hit, I couldn't stop myself from returning to my country and sharing what I know or have learnt over the years. Thankfully, Square and Maasranga stepped in to give me that opportunity,” she added.",
+      "recipe_info": [
+         {
+            "recipe_name": "Beef Bhuna",
+            "recipe_img": "https://www.curry-pot.com/wp-content/uploads/2016/12/beef-bhuna-1024x683.jpg",
+            "ingredients": [
+               "1 pound beef, cut into pieces",
+               "1 onion, sliced",
+               "2 teaspoons garlic paste",
+               "2 teaspoons ginger paste",
+               "1 teaspoon turmeric powder",
+               "1 teaspoon red chili powder",
+               "1 teaspoon cumin powder",
+               "1 teaspoon coriander powder",
+               "Salt to taste",
+               "3 tablespoons vegetable oil",
+               "1 cup, water"
+            ],
+            "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add beef, salt, and spices, and fry for 5-7 minutes. Add water, cover, and cook until beef is tender and the sauce thickens.",
+            "rating": 4.5
+         },
+         {
+            "recipe_name": "Bhorta Trio",
+            "recipe_img": "https://images.squarespace-cdn.com/content/v1/5e558c8165fc4c78f502938d/1630703610596-HDJYQ2HVP3CCEI1607OW/Bangladeshi+New+Year+Bhorta+_+Ilish+-+photo+credit+Dina+Begum+%282%29.jpg",
+            "ingredients": [
+               "1 bunch spinach, chopped",
+               "1 eggplant, chopped",
+               "2 tomatoes, chopped",
+               "2 green chilies, chopped",
+               "1 onion, chopped",
+               "2 teaspoons garlic paste",
+               "2 teaspoons ginger paste",
+               "1 teaspoon turmeric powder",
+               "1 teaspoon red chili powder",
+               "Salt to taste",
+               "2 tablespoons vegetable oil"
+            ],
+            "cooking_method": "1. Boil spinach, eggplant, and tomatoes separately, and drain. 2. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add the boiled vegetables, salt, and spices, and mash everything together. Fry for 5-7 minutes. Serve hot.",
+            "rating": 4.2
+         },
+         {
+            "recipe_name": "Shorshe Ilish",
+            "recipe_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSawKEoskt0tlOItk1pLB4tosMhvD5L3wwIhg0ngqwEd25Qcp-_AOTbb7tXIzOJqOGTjlY&usqp=CAU",
+            "ingredients": [
+               "4 pieces ilish (hilsa) fish",
+               "2 tablespoons mustard oil",
+               "2 tablespoons mustard paste",
+               "2 teaspoons turmeric powder",
+               "1 teaspoon red chili powder",
+               "2 green chilies, slit",
+               "1 teaspoon nigella seeds",
+               "Salt to taste",
+               "1/2 cup water"
+            ],
+            "cooking_method": "1. Marinate the fish with salt and turmeric powder for 15 minutes. 2. Heat mustard oil in a pan and fry the fish until golden brown. Remove the fish from the pan. 3. In the same pan, add nigella seeds, green chilies, and mustard paste. Fry for 2-3 minutes. Add turmeric powder, red chili powder, salt, and water. Mix well. 4. Add the fried ish to the pan and cover. Cook for 10-12 minutes or until the fish is cooked through. Serve hot with rice.",
+            "rating": 4.8
          }
-      },
-      {
-         "_id": "645296e02c24e4fd2c4d354b",
-         "chef_thumb": "https://prod-media-eng.dhakatribune.com/uploads/2021/07/kishwar-1623251349509-1625516668816.jpeg",
-         "chef_picture": "https://prod-media-eng.dhakatribune.com/uploads/2021/07/cc64da82f970f85794aa8ad82beb621d490824-1626184241306.jpg",
-         "chef_name": "Chef Kishwar Chowdhury",
-         "years_of_experience": 15,
-         "number_of_recipes": 50,
-         "likes": 10000,
-         "details": "The top six contestants from the latest season of MasterChef Australia competed in Martin Benn's Society Service Challenge on Monday, July 5. The challenge was followed by a surprise elimination. However, Bangladesh's Kishwar was declared safe at the end of the round, and she made it to the top 5 of the 13th season of MasterChef Australia. The four other contestants are Linda Dalrymple, Pete Camobell, Justin Narayan and Elise. A 38-year old Bangladeshi from Melbourne, Kishwar brought classic local dishes -- including 'Kala bhuna,'  'Fuchka-Chotpoti,' 'Macher-Jhol' and other delicacies, all the way to MasterChef kitchen. Kishwar, the mother of two, wants to write a Bangladeshi cookbook to keep the legacy of her family alive. In a recent conversation with Dhaka Tribune, Kishwar said that she learnt a lot from her experience in Masterchef's kitchen. After sailing through weeks of culinary challenges, nerve-wrecking tasks and enormous pressure of honouring her Bangladeshi heritage, Kishwar Chowdhury reached the very top of the MasterChef Australia 2021 and won everyone's heart. Not only did she recreate the simplest of local dishes such as Panta Bhat, an item that fills the belly of the working-class and is held dear by the culturally conscious urban middle class, but Kishwar also refused to box herself in and demonstrated her unique culinary skills that went beyond the classic dishes of the subcontinent.Here are the ten iconic dishes from MasterChef Australia's second runner-up Kishwar Chowdhury: Panta Bhat with Aloo Bharta, Fried Sardines Kishwar served smoked rice water with Aloo Bhorta and fried sardines during the two-part grand finale of MasterChef Australia. “This is the type of food you wouldn't see anywhere. It feels scary, but it also feels extremely rewarding to do this as my finale dish,” she said.Judges called her Panta Bhat dish “unbelievable.” Jock Zonfrillo said, “My mouth is still watering. It is such a beautiful contrast.'Mellissa Leong said that Kishwar's dish was “powerful with flavor and powerful with history.' ",
-         "recipe_info": {
-            "recipe1": {
-               "recipe_name": "Chicken Rezala",
-               "recipe_img": "https://i.ytimg.com/vi/I-mAyJvbPS0/maxresdefault.jpg",
-               "ingredients": [
-                  "1 lb boneless chicken, cut into pieces",
-                  "1 cup plain yogurt",
-                  "1 tablespoon ginger paste",
-                  "1 tablespoon garlic paste",
-                  "2 bay leaves",
-                  "2 cinnamon sticks",
-                  "4 green cardamom pods",
-                  "4 cloves",
-                  "1 teaspoon cumin powder",
-                  "1 teaspoon coriander powder",
-                  "1/2 teaspoon turmeric powder",
-                  "1/2 teaspoon red chili powder",
-                  "Salt to taste",
-                  "2 tablespoons vegetable oil",
-                  "1 cup water"
-               ],
-               "cooking_method": "1. Marinate the chicken with yogurt, ginger paste, and garlic paste for 1-2 hours. 2. Heat oil in a pan and fry bay leaves, cinnamon sticks, cardamom pods, and cloves for 1-2 minutes. Add the marinated chicken, salt, and spices, and fry for 5-7 minutes. 3. Add water, cover, and cook for 20-25 minutes or until the chicken is tender. Serve hot with naan or rice.",
-               "rating": 4.6
-            },
-            "recipe2": {
-               "recipe_name": "Chingri Malai Curry",
-               "recipe_img": "https://i.ndtvimg.com/i/2017-04/prawn-curry-generic_650x400_51491898702.jpg",
-               "ingredients": [
-                  "1 lb large shrimp, peeled and deveined",
-                  "1 cup coconut milk",
-                  "1 onion, chopped",
-                  "2 teaspoons garlic paste",
-                  "2 teaspoons ginger paste",
-                  "2 green chilies, chopped",
-                  "1 teaspoon cumin powder",
-                  "1 teaspoon coriander powder",
-                  "1/2 teaspoon turmeric powder",
-                  "Salt to taste",
-                  "2 tablespoons vegetable oil",
-                  "1/2 cup water"
-               ],
-               "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add shrimp, salt, and spices, and fry for 5-7 minutes. 2. Add water, cover, and cook for 5-7 minutes or until the shrimp is cooked through. 3. Add coconut milk and green chilies. Mix well and cook for another 2-3 minutes. Serve hot with rice.",
-               "rating": 4.9
-            },
-            "recipe3": {
-               "recipe_name": "Pitha",
-               "recipe_img": "https://www.deccanherald.com/sites/dh/files/articleimages/2022/02/19/download-8-1083076-1645264567.png",
-               "ingredients": [
-                  "2 cups rice flour",
-                  "1 cup grated coconut",
-                  "1 cup jaggery, grated",
-                  "1 teaspoon cardamom powder",
-                  "1/2 teaspoon salt",
-                  "Water as needed",
-                  "Oil for frying"
-               ],
-               "cooking_method": "1. Mix rice flour, grated coconut, jaggery, cardamom powder, and salt together. Add water gradually and knead to form a smooth dough. 2. Divide the dough into small balls and flatten them with your hands to form discs. 3. Heat oil in a pan and fry the discs until golden brown. Serve hot or cold.",
-               "rating": 4.3
-            }
+      ]
+   },
+   {
+      "_id": "645296e02c24e4fd2c4d354b",
+      "chef_thumb": "https://prod-media-eng.dhakatribune.com/uploads/2021/07/kishwar-1623251349509-1625516668816.jpeg",
+      "chef_picture": "https://prod-media-eng.dhakatribune.com/uploads/2021/07/cc64da82f970f85794aa8ad82beb621d490824-1626184241306.jpg",
+      "chef_name": "Chef Kishwar Chowdhury",
+      "years_of_experience": 15,
+      "number_of_recipes": 50,
+      "likes": 10000,
+      "details": "The top six contestants from the latest season of MasterChef Australia competed in Martin Benn's Society Service Challenge on Monday, July 5. The challenge was followed by a surprise elimination. However, Bangladesh's Kishwar was declared safe at the end of the round, and she made it to the top 5 of the 13th season of MasterChef Australia. The four other contestants are Linda Dalrymple, Pete Camobell, Justin Narayan and Elise. A 38-year old Bangladeshi from Melbourne, Kishwar brought classic local dishes -- including 'Kala bhuna,'  'Fuchka-Chotpoti,' 'Macher-Jhol' and other delicacies, all the way to MasterChef kitchen. Kishwar, the mother of two, wants to write a Bangladeshi cookbook to keep the legacy of her family alive. In a recent conversation with Dhaka Tribune, Kishwar said that she learnt a lot from her experience in Masterchef's kitchen. After sailing through weeks of culinary challenges, nerve-wrecking tasks and enormous pressure of honouring her Bangladeshi heritage, Kishwar Chowdhury reached the very top of the MasterChef Australia 2021 and won everyone's heart. Not only did she recreate the simplest of local dishes such as Panta Bhat, an item that fills the belly of the working-class and is held dear by the culturally conscious urban middle class, but Kishwar also refused to box herself in and demonstrated her unique culinary skills that went beyond the classic dishes of the subcontinent.Here are the ten iconic dishes from MasterChef Australia's second runner-up Kishwar Chowdhury: Panta Bhat with Aloo Bharta, Fried Sardines Kishwar served smoked rice water with Aloo Bhorta and fried sardines during the two-part grand finale of MasterChef Australia. “This is the type of food you wouldn't see anywhere. It feels scary, but it also feels extremely rewarding to do this as my finale dish,” she said.Judges called her Panta Bhat dish “unbelievable.” Jock Zonfrillo said, “My mouth is still watering. It is such a beautiful contrast.'Mellissa Leong said that Kishwar's dish was “powerful with flavor and powerful with history.' ",
+      "recipe_info": [
+         {
+            "recipe_name": "Chicken Rezala",
+            "recipe_img": "https://i.ytimg.com/vi/I-mAyJvbPS0/maxresdefault.jpg",
+            "ingredients": [
+               "1 lb boneless chicken, cut into pieces",
+               "1 cup plain yogurt",
+               "1 tablespoon ginger paste",
+               "1 tablespoon garlic paste",
+               "2 bay leaves",
+               "2 cinnamon sticks",
+               "4 green cardamom pods",
+               "4 cloves",
+               "1 teaspoon cumin powder",
+               "1 teaspoon coriander powder",
+               "1/2 teaspoon turmeric powder",
+               "1/2 teaspoon red chili powder",
+               "Salt to taste",
+               "2 tablespoons vegetable oil",
+               "1 cup water"
+            ],
+            "cooking_method": "1. Marinate the chicken with yogurt, ginger paste, and garlic paste for 1-2 hours. 2. Heat oil in a pan and fry bay leaves, cinnamon sticks, cardamom pods, and cloves for 1-2 minutes. Add the marinated chicken, salt, and spices, and fry for 5-7 minutes. 3. Add water, cover, and cook for 20-25 minutes or until the chicken is tender. Serve hot with naan or rice.",
+            "rating": 4.6
+         },
+         {
+            "recipe_name": "Chingri Malai Curry",
+            "recipe_img": "https://i.ndtvimg.com/i/2017-04/prawn-curry-generic_650x400_51491898702.jpg",
+            "ingredients": [
+               "1 lb large shrimp, peeled and deveined",
+               "1 cup coconut milk",
+               "1 onion, chopped",
+               "2 teaspoons garlic paste",
+               "2 teaspoons ginger paste",
+               "2 green chilies, chopped",
+               "1 teaspoon cumin powder",
+               "1 teaspoon coriander powder",
+               "1/2 teaspoon turmeric powder",
+               "Salt to taste",
+               "2 tablespoons vegetable oil",
+               "1/2 cup water"
+            ],
+            "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add shrimp, salt, and spices, and fry for 5-7 minutes. 2. Add water, cover, and cook for 5-7 minutes or until the shrimp is cooked through. 3. Add coconut milk and green chilies. Mix well and cook for another 2-3 minutes. Serve hot with rice.",
+            "rating": 4.9
+         },
+         {
+            "recipe_name": "Pitha",
+            "recipe_img": "https://www.deccanherald.com/sites/dh/files/articleimages/2022/02/19/download-8-1083076-1645264567.png",
+            "ingredients": [
+               "2 cups rice flour",
+               "1 cup grated coconut",
+               "1 cup jaggery, grated",
+               "1 teaspoon cardamom powder",
+               "1/2 teaspoon salt",
+               "Water as needed",
+               "Oil for frying"
+            ],
+            "cooking_method": "1. Mix rice flour, grated coconut, jaggery, cardamom powder, and salt together. Add water gradually and knead to form a smooth dough. 2. Divide the dough into small balls and flatten them with your hands to form discs. 3. Heat oil in a pan and fry the discs until golden brown. Serve hot or cold.",
+            "rating": 4.3
          }
-      },
-      {
-         "_id": "645296e0c0cecb40433a5814",
-         "chef_thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv-wNxBrXokJVL_MtJFXx--FW4d9cgD3iDbVckQh8ToNyojzdR2nXyrN2mpT-z9SW8Mdk&usqp=CAU",
-         "chef_picture": "https://chefclubdhakahome.files.wordpress.com/2020/08/img_20200809_19244519702735.jpg",
-         "chef_name": "Chef Kishwar Chowdhury",
-         "years_of_experience": 15,
-         "number_of_recipes": 50,
-         "likes": 10000,
-         "details": "After completing my studies in UK, the dream is to do something for the country. After working in famous hotels and restaurants in Bangladesh, he was appointed as a so-chef in Flight Catering Bangladesh Biman in 2018. He has a habit of working with great efficiency since long ago. He was working as a teacher in the famous Hospitality Institute of Bangladesh for several years. He is also a lifetime member of Bangladesh Chef Association. Several famous hotels and restaurants of Bangladesh were built by him. His dream is only to give something good in the hospitality of Bangladesh. He is always working to make this industry of Bangladesh comparable to other countries in the world.",
-         "recipe_info": {
-            "recipe1": {
-               "recipe_name": "Bhuna khichuri",
-               "recipe_img": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/05/Bhuna-khichuri-recipe.jpg",
-               "ingredients": [
-                  "1 lb chicken or mutton, cut into pieces",
-                  "2 cups basmati rice",
-                  "1 cup plain yogurt",
-                  "2 onions, sliced",
-                  "2 teaspoons garlic paste",
-                  "2 teaspoons ginger paste",
-                  "2 bay leaves",
-                  "4 green cardamom pods",
-                  "4 cloves",
-                  "1 teaspoon cumin powder",
-                  "1 teaspoon coriander powder",
-                  "1/2 teaspoon turmeric powder",
-                  "1/2 teaspoon red chili powder",
-                  "Salt to taste",
-                  "2 tablespoons vegetable oil",
-                  "3 tablespoons ghee",
-                  "2 cups water"
-               ],
-               "cooking_method": "1. Marinate the chicken or mutton with yogurt, ginger paste, and garlic paste for 1-2 hours. 2. Soak the rice in water for 30 minutes. Heat oil and ghee in a pan and fry onions, bay leaves, cardamom pods, and cloves until golden brown. Add marinated meat, salt, and spices, and fry for 10-15 minutes. 3. Add water and bring to a boil. Drain the water from the rice and add it to the pot. Cover and cook for 10-15 minutes or until the rice and meat are cooked through. Serve hot with raita.",
-               "rating": 4.7
-            },
-            "recipe2": {
-               "recipe_name": "Fish bhuna",
-               "recipe_img": "https://www.seriouseats.com/thmb/pcexnXQv5YKQMEfCGwIH4ey6fk8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20180501-dorade-bhuna-vicky-wasik-10-bcebaa8fc0a447eba7d644565c62f0d0.jpg",
-               "ingredients": [
-                  "4 pieces of hilsa fish",
-                  "2 tablespoons mustard paste",
-                  "1 tablespoon turmeric powder",
-                  "1 tablespoon red chili powder",
-                  "1/2 teaspoon salt",
-                  "2 tablespoons mustard oil",
-                  "1 tablespoon onion seeds",
-                  "2 green chilies, chopped"
-               ],
-               "cooking_method": "1. Mix mustard paste, turmeric powder, red chili powder, and salt together. Add water if needed to make a smooth paste. 2. Marinate the fish pieces with the paste for 30 minutes. 3. Heat mustard oil in a pan and fry onion seeds until they crackle. Add the marinated fish pieces and green chilies, and fry for 5-7 minutes on each side or until the fish is cooked through. Serve hot with rice.",
-               "rating": 4.9
-            },
-            "recipe3": {
-               "recipe_name": "Lau Ghonto",
-               "recipe_img": "https://img-global.cpcdn.com/recipes/1a2f96b53bdfd333/1200x630cq70/photo.jpg",
-               "ingredients": [
-                  "2 cups chopped bottle gourd",
-                  "1/2 cup shrimp, peeled and deveined",
-                  "1 onion, chopped",
-                  "2 teaspoons garlic paste",
-                  "2 teaspoons ginger paste",
-                  "2 green chilies, chopped",
-                  "1 teaspoon cumin powder",
-                  "1 teaspoon coriander powder",
-                  "1/2 teaspoon turmeric powder",
-                  "1/2 teaspoon red chili powder",
-                  "Salt to taste",
-                  "2 tablespoons vegetable oil",
-                  "1/2 cup water"
-               ],
-               "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add bottle gourd, shrimp, salt, and spices, and fry for 5-7 minutes. 2. Add water, cover, and cook for 10-15 minutes or until the bottle gourd is cooked through. Serve hot with rice.",
-               "rating": 4.5
-            }
+      ]
+   },
+   {
+      "_id": "645296e0c0cecb40433a5814",
+      "chef_thumb": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv-wNxBrXokJVL_MtJFXx--FW4d9cgD3iDbVckQh8ToNyojzdR2nXyrN2mpT-z9SW8Mdk&usqp=CAU",
+      "chef_picture": "https://chefclubdhakahome.files.wordpress.com/2020/08/img_20200809_19244519702735.jpg",
+      "chef_name": "Chef Kishwar Chowdhury",
+      "years_of_experience": 15,
+      "number_of_recipes": 50,
+      "likes": 10000,
+      "details": "After completing my studies in UK, the dream is to do something for the country. After working in famous hotels and restaurants in Bangladesh, he was appointed as a so-chef in Flight Catering Bangladesh Biman in 2018. He has a habit of working with great efficiency since long ago. He was working as a teacher in the famous Hospitality Institute of Bangladesh for several years. He is also a lifetime member of Bangladesh Chef Association. Several famous hotels and restaurants of Bangladesh were built by him. His dream is only to give something good in the hospitality of Bangladesh. He is always working to make this industry of Bangladesh comparable to other countries in the world.",
+      "recipe_info": [
+         {
+            "recipe_name": "Bhuna khichuri",
+            "recipe_img": "https://rumkisgoldenspoon.com/wp-content/uploads/2021/05/Bhuna-khichuri-recipe.jpg",
+            "ingredients": [
+               "1 lb chicken or mutton, cut into pieces",
+               "2 cups basmati rice",
+               "1 cup plain yogurt",
+               "2 onions, sliced",
+               "2 teaspoons garlic paste",
+               "2 teaspoons ginger paste",
+               "2 bay leaves",
+               "4 green cardamom pods",
+               "4 cloves",
+               "1 teaspoon cumin powder",
+               "1 teaspoon coriander powder",
+               "1/2 teaspoon turmeric powder",
+               "1/2 teaspoon red chili powder",
+               "Salt to taste",
+               "2 tablespoons vegetable oil",
+               "3 tablespoons ghee",
+               "2 cups water"
+            ],
+            "cooking_method": "1. Marinate the chicken or mutton with yogurt, ginger paste, and garlic paste for 1-2 hours. 2. Soak the rice in water for 30 minutes. Heat oil and ghee in a pan and fry onions, bay leaves, cardamom pods, and cloves until golden brown. Add marinated meat, salt, and spices, and fry for 10-15 minutes. 3. Add water and bring to a boil. Drain the water from the rice and add it to the pot. Cover and cook for 10-15 minutes or until the rice and meat are cooked through. Serve hot with raita.",
+            "rating": 4.7
+         },
+         {
+            "recipe_name": "Fish bhuna",
+            "recipe_img": "https://www.seriouseats.com/thmb/pcexnXQv5YKQMEfCGwIH4ey6fk8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20180501-dorade-bhuna-vicky-wasik-10-bcebaa8fc0a447eba7d644565c62f0d0.jpg",
+            "ingredients": [
+               "4 pieces of hilsa fish",
+               "2 tablespoons mustard paste",
+               "1 tablespoon turmeric powder",
+               "1 tablespoon red chili powder",
+               "1/2 teaspoon salt",
+               "2 tablespoons mustard oil",
+               "1 tablespoon onion seeds",
+               "2 green chilies, chopped"
+            ],
+            "cooking_method": "1. Mix mustard paste, turmeric powder, red chili powder, and salt together. Add water if needed to make a smooth paste. 2. Marinate the fish pieces with the paste for 30 minutes. 3. Heat mustard oil in a pan and fry onion seeds until they crackle. Add the marinated fish pieces and green chilies, and fry for 5-7 minutes on each side or until the fish is cooked through. Serve hot with rice.",
+            "rating": 4.9
+         },
+         {
+            "recipe_name": "Lau Ghonto",
+            "recipe_img": "https://img-global.cpcdn.com/recipes/1a2f96b53bdfd333/1200x630cq70/photo.jpg",
+            "ingredients": [
+               "2 cups chopped bottle gourd",
+               "1/2 cup shrimp, peeled and deveined",
+               "1 onion, chopped",
+               "2 teaspoons garlic paste",
+               "2 teaspoons ginger paste",
+               "2 green chilies, chopped",
+               "1 teaspoon cumin powder",
+               "1 teaspoon coriander powder",
+               "1/2 teaspoon turmeric powder",
+               "1/2 teaspoon red chili powder",
+               "Salt to taste",
+               "2 tablespoons vegetable oil",
+               "1/2 cup water"
+            ],
+            "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add bottle gourd, shrimp, salt, and spices, and fry for 5-7 minutes. 2. Add water, cover, and cook for 10-15 minutes or until the bottle gourd is cooked through. Serve hot with rice.",
+            "rating": 4.5
          }
-      }
-   ]
-}
+      ]
+   }
+]

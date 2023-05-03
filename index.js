@@ -4,11 +4,19 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 
+const chefs = require('./data/data.json');
+
+app.use(cors());
+
+
 app.get('/', (req, res) => {
    res.send("Chef Nahid Osman Bangladesh is Running....",);
 });
 
-app.use(cors());
+
+app.get('/chefs', (req, res) => {
+   res.send(chefs);
+});
 
 
 
