@@ -1,0 +1,62 @@
+[
+   {
+      "id": "101",
+      "dish_name": "Beef Shatkora",
+      "dish_img": "https://media-cdn2.greatbritishchefs.com/media/fzgozlyf/img81384.whqc_330x220q90.webp"
+   },
+   {
+      "id": "102",
+      "dish_name": "Fish Curry",
+      "dish_img": "https://media-cdn2.greatbritishchefs.com/media/wzbdfu0k/img81553.whqc_330x220q90.webp"
+   },
+   {
+      "id": "103",
+      "dish_name": "Rice Flour",
+      "dish_img": "https://media-cdn2.greatbritishchefs.com/media/z1znuedz/img81396.whqc_330x220q90.webp"
+   },
+   {
+      "id": "104",
+      "dish_name": "Mug Dhal Bhuna",
+      "dish_img": "https://media-cdn2.greatbritishchefs.com/media/dpiigoaq/img85513.whqc_330x220q90.webp"
+   },
+   {
+      "id": "105",
+      "dish_name": "Dimer Alur Chop",
+      "dish_img": "https://media-cdn2.greatbritishchefs.com/media/r3kc0qur/img85504.whqc_330x220q90.webp"
+   },
+   {
+      "id": "106",
+      "dish_name": "Beguni",
+      "dish_img": "https://media-cdn2.greatbritishchefs.com/media/dlein1oc/img81550.whqc_330x220q90.webp"
+   },
+   {
+      "id": "107",
+      "dish_name": "Patishapta Pitha",
+      "dish_img": "https://media-cdn2.greatbritishchefs.com/media/a0ldvnyp/img81544.whqc_330x220q90.webp"
+   },
+   {
+      "id": "108",
+      "dish_name": "Sheem Bhaji",
+      "dish_img": "https://media-cdn2.greatbritishchefs.com/media/cf5flt5r/img85501.whqc_330x220q90.webp"
+   },
+   {
+      "id": "109",
+      "dish_name": "Vegun Curry",
+      "dish_img": "https://media-cdn2.greatbritishchefs.com/media/p4hje3c0/img32924.whqc_320x200q90.webp"
+   },
+   {
+      "id": "110",
+      "dish_name": "Chicken Curry",
+      "dish_img": "https://media-cdn2.greatbritishchefs.com/media/lrkmxwc4/img49277.whqc_505x316q90.webp"
+   },
+   {
+      "id": "111",
+      "dish_name": "Fish Curry",
+      "dish_img": "https://media-cdn2.greatbritishchefs.com/media/wzbdfu0k/img81553.whqc_330x220q90.webp"
+   },
+   {
+      "id": "112",
+      "dish_name": "Sheem Bhaji",
+      "dish_img": "https://media-cdn2.greatbritishchefs.com/media/cf5flt5r/img85501.whqc_330x220q90.webp"
+   }
+]
