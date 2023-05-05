@@ -26,7 +26,7 @@
                "1 cup water"
             ],
             "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add beef, salt, and spices, and fry until beef is browned. Add tomatoes and water, and cook until beef is tender and the sauce thickens.",
-            "rating": 4.5
+            "rating": 4.6
          },
          {
             "recipe_name": "Fish Curry",
@@ -45,7 +45,7 @@
                "1 cup water"
             ],
             "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add fish, salt, and spices, and fry until fish is browned. Add tomatoes and water, and cook until fish is tender and the sauce thickens.",
-            "rating": 4.2
+            "rating": 4.6
          },
          {
             "recipe_name": "Shorshe Ilish",
@@ -113,7 +113,7 @@
                "1 cup water"
             ],
             "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add potatoes, salt, and spices, and fry for 5-7 minutes. Add water and poppy seed paste, and cook until potatoes are tender and the sauce thickens.",
-            "rating": 4.4
+            "rating": 4.6
          },
          {
             "recipe_name": "Kacchi Biryani",
@@ -187,7 +187,7 @@
                "1 cup water"
             ],
             "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add potatoes, salt, and spices, and fry for 5-7 minutes. Add water and poppy seed paste, and cook until potatoes are tender and the sauce thickens.",
-            "rating": 4.4
+            "rating": 4.6
          },
          {
             "recipe_name": "Dhakaai Morog Pulao",
@@ -242,7 +242,7 @@
                "1 cup, water"
             ],
             "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add beef, salt, and spices, and fry for 5-7 minutes. Add water, cover, and cook until beef is tender and the sauce thickens.",
-            "rating": 4.5
+            "rating": 4.6
          },
          {
             "recipe_name": "Bhorta Trio",
@@ -261,7 +261,7 @@
                "2 tablespoons vegetable oil"
             ],
             "cooking_method": "1. Boil spinach, eggplant, and tomatoes separately, and drain. 2. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add the boiled vegetables, salt, and spices, and mash everything together. Fry for 5-7 minutes. Serve hot.",
-            "rating": 4.2
+            "rating": 4.7
          },
          {
             "recipe_name": "Shorshe Ilish",
@@ -348,7 +348,7 @@
                "Oil for frying"
             ],
             "cooking_method": "1. Mix rice flour, grated coconut, jaggery, cardamom powder, and salt together. Add water gradually and knead to form a smooth dough. 2. Divide the dough into small balls and flatten them with your hands to form discs. 3. Heat oil in a pan and fry the discs until golden brown. Serve hot or cold.",
-            "rating": 4.3
+            "rating": 4.8
          }
       ]
    },
@@ -422,7 +422,7 @@
                "1/2 cup water"
             ],
             "cooking_method": "1. Heat oil in a pan and fry onions until golden brown. Add garlic and ginger paste, and fry for 1 minute. Add bottle gourd, shrimp, salt, and spices, and fry for 5-7 minutes. 2. Add water, cover, and cook for 10-15 minutes or until the bottle gourd is cooked through. Serve hot with rice.",
-            "rating": 4.5
+            "rating": 4.6
          }
       ]
    }
